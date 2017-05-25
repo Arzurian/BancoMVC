@@ -146,9 +146,6 @@ public class DialogoCrear extends javax.swing.JDialog {
         // TODO add your handling code here:
     }//GEN-LAST:event_InSaldoActionPerformed
 
-    /**
-     * @param args the command line arguments
-     */
     public String getCodigo() {
         return InCodigo.getText();
     }

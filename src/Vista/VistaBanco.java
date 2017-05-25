@@ -336,9 +336,7 @@ public class VistaBanco extends javax.swing.JFrame implements IVistaBanco {
         MosSaldo.setText(Float.toString((float)TablaCuentas.getValueAt(fila, 2)));
     }//GEN-LAST:event_TablaCuentasMouseClicked
 
-    /**
-     * @param args the command line arguments
-     */
+
     @Override
     public String getCodigo() {
         return dialogoCrear.getCodigo();
