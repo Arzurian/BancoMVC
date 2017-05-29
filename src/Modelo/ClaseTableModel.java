@@ -78,5 +78,5 @@ public class ClaseTableModel extends AbstractTableModel {
 
         return clase;
     }
-// https://github.com/Arzurian/BancoMVC.git
+
 }
